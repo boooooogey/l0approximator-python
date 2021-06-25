@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: l0approximator
+Version: 0.0.1
+Summary: Approximate 1-d signal with L0 penalization
+Home-page: https://github.com/boooooogey/l0approximator-python
+Author: Ali Tugrul Balci
+Author-email: alitugrulbalci@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/boooooogey/l0approximator-python/issues
+Description: # l0approximator-python
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+l0approximator/functions/__init__.py
+l0approximator/functions/piecewisefunctions.py
+l0approximator/functions/squarederror.py
+l0approximator/l0approximator.egg-info/PKG-INFO
+l0approximator/l0approximator.egg-info/SOURCES.txt
+l0approximator/l0approximator.egg-info/dependency_links.txt
+l0approximator/l0approximator.egg-info/top_level.txt
